@@ -4,7 +4,7 @@
 //
 //  Created by Odalmi Rafel Paulino Peña on 6/15/26.
 //
-
+// Se agregara logica mas adelante
 import SwiftUI
 
 struct PostCreateView: View {
