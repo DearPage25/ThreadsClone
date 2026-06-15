@@ -23,6 +23,7 @@ struct HeaderView: View {
                 .labelStyle(.iconOnly)
                 .foregroundColor(.gray)
         }
+        .padding(.bottom)
     }
 }
 
